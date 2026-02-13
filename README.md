@@ -18,7 +18,7 @@ Atualmente trabalho como Analista de Suporte na **ZG Soluções**, onde foco em 
 
 ---
 
-### 🎓 Formação e Certificações
+### 🎓 Formação
 
 <div align="left">
   <img src="https://img.shields.io/badge/MBA-Gestão_de_Projetos-FFDE21?style=for-the-badge&logo=target&logoColor=white" alt="MBA Gestão de Projetos">
